@@ -23,5 +23,5 @@ Have fun!
 
 Main
 - AtlantisSrc (source code, solution and project files)
-- Game (game data file, without exe)
+- Game (game data files, without exe)
 - Doc (image for this readme.dm file)
