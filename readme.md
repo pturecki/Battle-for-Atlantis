@@ -16,7 +16,7 @@ After compiling, copy generated exe file to Game folder. Or run from Visual Stud
 
 You can download (for free) ready to play game from itch.io: [Battle for Atlantis on itch.io](https://pturecki.itch.io/battle-for-atlantis).
 
-You can use, copy, modify etc this code as you wish.
+You can use, copy, modify etc this code as you wish. For questions use twitter or discussion section.
 
 Have fun!
 
